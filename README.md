@@ -19,7 +19,7 @@ Add `tachyons` to application.css (Use `tachyons-min` for the minimized version)
 
 ```
 *= require tachyons
-*= require tachyons-min
+*= require tachyons.min
 ```
 
 ## Usage
