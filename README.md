@@ -8,7 +8,7 @@ CSS files for [tachyons](http://tachyons.io).
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tachyons-rails'
+gem 'tachyons-rails', git: 'https://github.com/DakotaLMartinez/tachyons-rails'
 ```
 
 And then execute:
